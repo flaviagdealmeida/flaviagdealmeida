@@ -38,7 +38,7 @@ Essas são algumas das linguagens que tenho conhecimento : <br /> <br />
 
 
 <a href="https://github.com/flaviagdealmeida/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=flaviagdealmeida&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=flaviagdealmeida&show_icons=true&theme=radical" width="400" />
 </a>
 
 <a href="https://github.com/flaviagdealmeida/github-readme-stats">
