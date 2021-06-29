@@ -1,4 +1,4 @@
-<h2>  Olá Pesso@ll </h2>
+<h2>  Olá Pesso@ll! </h2>
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624927265873.png" width="400px" />
 <p> Sou Flávia Almeida, mãe da Júlia e do Davi e trabalho com TI há alguns anos. <br />
