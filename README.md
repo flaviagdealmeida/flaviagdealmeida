@@ -38,11 +38,11 @@ Essas são algumas das linguagens que tenho conhecimento : <br /> <br />
 
 
 <a href="https://github.com/flaviagdealmeida/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=flaviagdealmeida&show_icons=true&theme=radical" width="400" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=flaviagdealmeida&count_private=true&show_icons=true&theme=radical" alt="Flávia-Almeida" width="400" />
 </a>
 
 <a href="https://github.com/flaviagdealmeida/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagdealmeida&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagdealmeida&layout=compact&theme=radical" />
 </a>
 
 
