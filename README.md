@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624927265873.png" width="400px" />
 <p> Sou Flávia Almeida, mãe da Júlia e do Davi e trabalho com TI há alguns anos. <br />
 Há quase 2 anos fiz uma transição de carreira, saindo da área de Educação Técnica e ingressando na área de Segurança da Informação. <br />
-Hoje atuo em um time Desenvolvimento Seguro que vem evoluindo ao longo desses meses que integro a equipe. </p>
+Sentia que faltava a experiência no meu currículo como desenvolvedora, já que é minha área de formação e nunca havia atuado diretamente. Hoje integro um time de Desenvolvento back-end Java. </p>
 
 
 
